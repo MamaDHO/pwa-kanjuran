@@ -1,0 +1,105 @@
+{
+    "seq": 4,
+    "orders": {
+        "1": {
+            "id": 1,
+            "trx": "#TRX001",
+            "items": [
+                {
+                    "id": "es-teh",
+                    "nama": "Es Teh Manis",
+                    "harga": 2000,
+                    "qty": 1
+                },
+                {
+                    "id": "air-mineral",
+                    "nama": "Air Mineral",
+                    "harga": 3000,
+                    "qty": 1
+                }
+            ],
+            "jumlah": 2,
+            "biaya": 0,
+            "total": 5000,
+            "status": "paid",
+            "dibuat": 1792979651,
+            "kedaluwarsa": 1792980551,
+            "dibayar": 1792979661
+        },
+        "2": {
+            "id": 2,
+            "trx": "#TRX002",
+            "items": [
+                {
+                    "id": "es-teh",
+                    "nama": "Es Teh Manis",
+                    "harga": 2000,
+                    "qty": 2
+                },
+                {
+                    "id": "keripik",
+                    "nama": "Keripik Singkong",
+                    "harga": 4000,
+                    "qty": 2
+                }
+            ],
+            "jumlah": 4,
+            "biaya": 0,
+            "total": 12000,
+            "status": "paid",
+            "dibuat": 1792980292,
+            "kedaluwarsa": 1792981192,
+            "dibayar": 1792980294
+        },
+        "3": {
+            "id": 3,
+            "trx": "#TRX003",
+            "items": [
+                {
+                    "id": "mie-instan",
+                    "nama": "Mie Instan",
+                    "harga": 4000,
+                    "qty": 1
+                },
+                {
+                    "id": "air-mineral",
+                    "nama": "Air Mineral",
+                    "harga": 3000,
+                    "qty": 2
+                }
+            ],
+            "jumlah": 3,
+            "biaya": 0,
+            "total": 10000,
+            "status": "paid",
+            "dibuat": 1792986143,
+            "kedaluwarsa": 1792987043,
+            "dibayar": 1792986146
+        },
+        "4": {
+            "id": 4,
+            "trx": "#TRX004",
+            "items": [
+                {
+                    "id": "mie-instan",
+                    "nama": "Mie Instan",
+                    "harga": 4000,
+                    "qty": 1
+                },
+                {
+                    "id": "roti-cokelat",
+                    "nama": "Roti Cokelat",
+                    "harga": 3000,
+                    "qty": 1
+                }
+            ],
+            "jumlah": 2,
+            "biaya": 0,
+            "total": 7000,
+            "status": "paid",
+            "dibuat": 1792986168,
+            "kedaluwarsa": 1792987068,
+            "dibayar": 1792986169
+        }
+    }
+}

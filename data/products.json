@@ -1,0 +1,42 @@
+{
+    "es-teh": {
+        "id": "es-teh",
+        "nama": "Es Teh Manis",
+        "harga": 2000,
+        "kategori": "Minuman",
+        "stok": 2,
+        "gambar": "es-teh.png"
+    },
+    "mie-instan": {
+        "id": "mie-instan",
+        "nama": "Mie Instan",
+        "harga": 4000,
+        "kategori": "Makanan",
+        "stok": 10,
+        "gambar": "mie-instan.png"
+    },
+    "keripik": {
+        "id": "keripik",
+        "nama": "Keripik Singkong",
+        "harga": 4000,
+        "kategori": "Camilan",
+        "stok": 0,
+        "gambar": "keripik.png"
+    },
+    "air-mineral": {
+        "id": "air-mineral",
+        "nama": "Air Mineral",
+        "harga": 3000,
+        "kategori": "Minuman",
+        "stok": 17,
+        "gambar": "air-mineral.png"
+    },
+    "roti-cokelat": {
+        "id": "roti-cokelat",
+        "nama": "Roti Cokelat",
+        "harga": 3000,
+        "kategori": "Camilan",
+        "stok": 2,
+        "gambar": "roti-cokelat.png"
+    }
+}
