@@ -22,3 +22,5 @@ page_start('Selamat Datang', 'page-welcome');
     <path d="M0 98C70 70 150 60 220 72C280 82 320 76 360 58V130H0Z" fill="#6FB1FA"/>
 </svg>
 <?php page_end();
+
+# test
